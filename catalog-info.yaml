@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test1
+  annotations:
+    github.com/project-slug: SamarthNanda1114/test1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: samarth
