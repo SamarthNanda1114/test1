@@ -4,12 +4,12 @@ metadata:
   name: Signzy-Test-API
   description: This is a test API for backstage
   tags:
-     Signzy 
-     API-Team
+    - Signzy
+      API-Team
   links: 
     - url: https://github.com/SamarthNanda1114
       title: My github
 spec:
   type: service
   lifecycle: production
-  owner: Signzy-API
+  owner: Signzy
