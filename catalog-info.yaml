@@ -13,6 +13,8 @@ metadata:
       title: Signzy
     - url: https://bitbucket.org/dashboard/overview
       title: Bitbucket
+    - url: https://bitbucket.org/dashboard/overview
+      title: Bitbucket
 spec:
   type: service
   lifecycle: production
