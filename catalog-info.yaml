@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
+kind: Component
 metadata:
   name: Signzy Test API
   description: This is a test API for backstage
@@ -14,6 +14,6 @@ metadata:
     - url: https://bitbucket.org/dashboard/overview
       title: Bitbucket
 spec:
-  type: Group
+  type: service
   lifecycle: production
   owner: Signzy-API
