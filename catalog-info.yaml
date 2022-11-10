@@ -9,10 +9,6 @@ metadata:
   links: 
     - url: https://github.com/SamarthNanda1114
       title: My github
-    - url: https://signzy.com
-      title: Signzy
-    - url: https://bitbucket.org/dashboard/overview
-      title: Bitbucket
 spec:
   type: service
   lifecycle: production
