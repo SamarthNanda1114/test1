@@ -1,10 +1,12 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Group
 metadata:
   name: test1
-  annotations:
-    github.com/project-slug: SamarthNanda1114/test1
+  description: description of test
+  tags:
+    - go
+    - website
 spec:
-  type: other
-  lifecycle: unknown
-  owner: samarth
+  type: service
+  lifecycle: production
+  owner: Signzy-API
