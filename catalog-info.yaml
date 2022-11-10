@@ -5,7 +5,7 @@ metadata:
   description: This is a test API for backstage
   tags:
     - Signzy
-      API-Team
+    - API-Team
   links: 
     - url: https://github.com/SamarthNanda1114
       title: My github
