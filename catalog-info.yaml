@@ -7,9 +7,8 @@ metadata:
     - go
     - website
   links: 
-    -  url: https://github.com/SamarthNanda1114
-       title: My github
-       icon: github
+    - url: https://github.com/SamarthNanda1114
+      title: My github
 spec:
   type: service
   lifecycle: production
