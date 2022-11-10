@@ -4,8 +4,8 @@ metadata:
   name: signzy
   description: this is a test api for backstage
   tags:
-    - signzy
-    - apiteam
+    - go
+    - website
   links: 
     - url: https://github.com/SamarthNanda1114
       title: My github
